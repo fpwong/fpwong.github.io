@@ -4,12 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Indie game dev studying BICAH (Bachelor of Informatics and Computation
+Advanced (Honours)) at Monash University.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+Currently working on a coop Action RPG game. A cross between Alien Swarm (Isometic, Level-based, Unlockables) and Dark Souls (Combat, Difficulty, AI).
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+See footer below
