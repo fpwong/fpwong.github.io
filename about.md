@@ -4,10 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Indie game dev studying BICAH (Bachelor of Informatics and Computation
-Advanced (Honours)) at Monash University.
-
 Currently working on a coop Action RPG game. A cross between Alien Swarm (Isometic, Level-based, Unlockables) and Dark Souls (Combat, Difficulty, AI).
+
+Studying BICAH specializing in Computer Science at Monash University
 
 ### Contact me
 
