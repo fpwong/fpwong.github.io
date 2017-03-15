@@ -6,18 +6,16 @@ permalink: /current/
 
 ## Cooperative Hack And Slash
 
-Best described as a cross between Dark Souls and Alienswarm. I wanted the weighty combat focusing on timing which you see in Dark Souls and many recent melee-oriented action games. 
+Best described as a cross between Dark Souls and Alienswarm.
 
-Some gifs of my progress can be found at my twitter ([@funcpwong](https://twitter.com/funcpwong)), clicking images below will take you to the related youtube video.
+Some gifs of my progress can be found at my twitter [@funcpwong](https://twitter.com/funcpwong). Clicking images below will take you to the related youtube video.
 
 [![video_0.jpg](https://img.youtube.com/vi/UVmDh0dpeZ0/0.jpg)](https://www.youtube.com/watch?v=UVmDh0dpeZ0)
 
-The other side features the progression and cooperativeness of games such as Alienswarm, Payday and Left 4 Dead.
+Gameplay focuses on weighty combat focusing on dodging attacks and counter attacking. An important part of the combat is knocking the enemy into the air, continuous attacks will keep enemies in the air rendering them powerless.
 
-The game will be level-based. You will unlock weapon, perks and skills that you can choose before you start the level.
+The game will be level-based. Players will unlock weapons, perks and skills that they can choose before starting the level.
 
-Players will have to work together, figure out which combination is best for which level (especially important for the harder difficulties).
+Players have to figure out which combination of perks and skills work together and decide which player will take the role of tank, dps or utility. This will be especially important for completing harder difficulties.
 
 [![video_1.jpg](https://img.youtube.com/vi/xspnMWhSk-0/0.jpg)](https://www.youtube.com/watch?v=xspnMWhSk-0)
-
-An important decision is whether players have classes, so an archer, mage or warrior and I will most likely be deciding that by the start of 2018.
