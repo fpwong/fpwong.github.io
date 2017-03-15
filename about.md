@@ -8,6 +8,6 @@ Currently working on a coop Action RPG game. A cross between Alien Swarm (Isomet
 
 Studying Computer Science Advanced (C3001) at Monash University
 
-### Contact me
+## Contact me
 
 See footer below
