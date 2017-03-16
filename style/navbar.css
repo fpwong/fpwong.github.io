@@ -1,0 +1,45 @@
+/*#navbar html {*/
+    /*display: table;*/
+    /*margin: auto;*/
+/*}*/
+
+/*#navbar body {*/
+    /*display: table-cell;*/
+    /*vertical-align: middle;*/
+/*}*/
+
+/* === NAVIGATION BAR === */
+#navbar ul {
+    font-weight: lighter;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #404040;
+
+    position:relative;
+    z-index:2;
+    font-size:17px;
+    color:#f1f1f1;
+    width:100%;
+    letter-spacing:1px;
+}
+
+
+
+#navbar li {
+    float: left;
+}
+
+#navbar li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+#navbar li a:hover {
+    color: blue;
+}
