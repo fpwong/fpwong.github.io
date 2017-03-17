@@ -15,7 +15,7 @@
 }
 
 #navbar li {
-    font-size:38px;
+    font-size:34px;
     /*font-variant: normal;*/
     font-variant: normal;
     /*font-family: "Georgia", serif;*/
@@ -30,7 +30,7 @@
     -moz-transition: all .15s ease-in;
     -o-transition: all .15s ease-in;
     -webkit-transition: all .15s ease-in;
-    font-size:17px;
+    font-size:20px;
     font-variant: all-small-caps;
     vertical-align: middle;
     font-weight: normal;
@@ -40,7 +40,12 @@
 }
 
 #navbar li a:hover {
-    color: orangered;
+    color: blue;
+    /*font-weight: bold;*/
+}
+
+#navbar li i:hover {
+    color: blue;
 }
 
 
