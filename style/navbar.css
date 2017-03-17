@@ -15,9 +15,15 @@
 }
 
 #navbar li {
-    font-size:40px;
-    color: black;
+    font-size:38px;
+    /*font-variant: normal;*/
+    font-variant: normal;
+    /*font-family: "Georgia", serif;*/
+    font-family: "Open Sans", serif;
+    font-weight: bold;
+    /*color: white;*/
     float: right;
+
 }
 
 #navbar li a {
@@ -25,8 +31,10 @@
     -o-transition: all .15s ease-in;
     -webkit-transition: all .15s ease-in;
     font-size:17px;
+    font-variant: all-small-caps;
     vertical-align: middle;
-    color: black;
+    font-weight: normal;
+    /*color: white;*/
     text-decoration: none;
     padding: 0 7px;
 }
@@ -34,8 +42,6 @@
 #navbar li a:hover {
     color: orangered;
 }
-
-
 
 
 /* === FOOTER === */
