@@ -112,3 +112,8 @@ pre {
     font-weight: 400;
     /*line-height: 18px;*/
 }
+
+/* === Tables === */
+th {
+    text-align: left;
+}
